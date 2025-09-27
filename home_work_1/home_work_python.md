@@ -1197,4 +1197,5 @@ def atm_simulator():
 # Дополнительные материалы
 
 https://www.geeksforgeeks.org/python/python-programming-language-tutorial
+
 https://www.geeksforgeeks.org/python/python-web-development
